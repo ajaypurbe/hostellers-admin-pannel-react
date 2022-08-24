@@ -1,0 +1,114 @@
+[
+    {
+        "_id": "6215cf816b07bbbf236d918d",
+        "hostelId": null,
+        "pricingId": {
+            "_id": "620fc4e66a8f6cbafc20fb9b",
+            "title": "Premium",
+            "uid": "6207958b3d53d845d21d9e7c",
+            "description": "You will get lots of facilities just like home",
+            "rate": "2000",
+            "duration": "Week",
+            "currency": "NPR",
+            "features": [
+                "Hot water",
+                " cold water"
+            ],
+            "createdAt": "2022-02-18T16:10:14.984Z",
+            "updatedAt": "2022-02-18T16:10:14.984Z",
+            "__v": 0
+        },
+        "roomId": {
+            "_id": "620fc5da6a8f6cbafc20fdb2",
+            "uid": "6207958b3d53d845d21d9e7c",
+            "hostel": "620fb3fa144b52ccf2bd41ec",
+            "type": "620ddcd936961519e53723fe",
+            "general": {
+                "title": "Cozy Single Room",
+                "tagline": "Room that satisfies you",
+                "description": "You will get lots of facilities and will feel like home",
+                "_id": "620fc5da6a8f6cbafc20fdb3",
+                "createdAt": "2022-02-18T16:14:18.302Z",
+                "updatedAt": "2022-02-18T16:14:18.302Z"
+            },
+            "image": {
+                "profileImage": "uploads/805303724Live music acoustic band.png",
+                "coverImage": "uploads/276675656Live music acoustic band 1.png",
+                "galleryImages": [
+                    "uploads/122641487Ajay all Own Valentine day.png",
+                    "uploads/732287267Ajay d Own Valentine day.png"
+                ],
+                "_id": "620fc5da6a8f6cbafc20fdb4",
+                "createdAt": "2022-02-18T16:14:18.302Z",
+                "updatedAt": "2022-02-18T16:14:18.302Z"
+            },
+            "contact": {
+                "contactEmail": [
+                    "room@gmail.com"
+                ],
+                "phoneNumber": [
+                    "9818821313"
+                ],
+                "tel": [
+                    "29034902"
+                ],
+                "_id": "620fc5da6a8f6cbafc20fdb5",
+                "createdAt": "2022-02-18T16:14:18.302Z",
+                "updatedAt": "2022-02-18T16:14:18.302Z"
+            },
+            "roomDetails": {
+                "class": "6200b90fd01fc04a4524bcef",
+                "studentCapacity": 1,
+                "totalBeds": 2,
+                "category": "620dd199d356614d0a179a64",
+                "roomSize": 100,
+                "facilities": [
+                    "Free-Wifi",
+                    " Foods"
+                ],
+                "_id": "620fc5da6a8f6cbafc20fdb6",
+                "createdAt": "2022-02-18T16:14:18.302Z",
+                "updatedAt": "2022-02-18T16:14:18.302Z"
+            },
+            "address": {
+                "coordinates": {
+                    "lat": "27.6751429",
+                    "lng": "85.3463909",
+                    "_id": "620fc5da6a8f6cbafc20fdb8",
+                    "createdAt": "2022-02-18T16:14:18.302Z",
+                    "updatedAt": "2022-02-18T16:14:18.302Z"
+                },
+                "city": "Kathmandu",
+                "province": "Bagmati",
+                "zip": "44600",
+                "place": "New Baneshwor",
+                "street": "Street 12, Bhupi Sherchan marg, Near Apex College",
+                "country": "Nepal",
+                "_id": "620fc5da6a8f6cbafc20fdb7",
+                "createdAt": "2022-02-18T16:14:18.302Z",
+                "updatedAt": "2022-02-18T16:14:18.302Z"
+            },
+            "pricing": "620fc4e66a8f6cbafc20fb9b",
+            "guests": [],
+            "createdAt": "2022-02-18T16:14:18.303Z",
+            "updatedAt": "2022-02-18T16:14:18.303Z",
+            "__v": 0
+        },
+        "uid": {
+            "roles": {
+                "User": 1111
+            },
+            "_id": "6208b8f307565eb7bf0e61ee",
+            "username": "aapurwe",
+            "email": "aapurwe@gmail.com",
+            "password": "$2b$10$ycf3WhJL926msFHuXm.TguSAWWCtxgqKXbomVEFyvXTZLbDr9PgbC",
+            "createdAt": "2022-02-13T07:53:23.157Z",
+            "updatedAt": "2022-02-23T06:06:24.148Z",
+            "__v": 0,
+            "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySW5mbyI6eyJfaWQiOiI2MjA4YjhmMzA3NTY1ZWI3YmYwZTYxZWUiLCJlbWFpbCI6ImFhcHVyd2VAZ21haWwuY29tIiwidXNlcm5hbWUiOiJhYXB1cndlIiwicm9sZXMiOlsxMTExLG51bGwsbnVsbF19LCJpYXQiOjE2NDU1OTYzODQsImV4cCI6MTY0NTY4Mjc4NH0.E20jzqzTLLTuul8q5j_amxJRUkK6RqLQx5J7-5R9ru4"
+        },
+        "status": "Pending",
+        "remarks": "Remarks",
+        "__v": 0
+    }
+]
